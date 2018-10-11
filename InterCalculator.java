@@ -1,5 +1,5 @@
 
-public class InterCalculator
+public interface InterCalculator
 {
 
 public void multiplication(int a);
